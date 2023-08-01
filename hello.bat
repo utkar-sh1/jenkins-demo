@@ -1,2 +1,2 @@
-echo "hello World once again"
+echo "hello to Jenkins from VS CODE"
 pause;
